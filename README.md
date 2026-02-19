@@ -1,4 +1,4 @@
-# BookIt: Experiences & Slots 🌍.
+# BookIt: Experiences & Slots 🌍
 
 A full-stack web application built with **Next.js** and **Supabase (PostgreSQL)**.  
 Users can explore travel experiences, view available slots, and complete bookings — all in a responsive, modern UI.
@@ -46,6 +46,7 @@ Users can explore travel experiences, view available slots, and complete booking
 ## 🔌 Environment Variables
 
 Create a `.env.local` file in the root of your Next.js app:
+
 
 
 
